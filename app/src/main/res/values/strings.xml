@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap2-homework</string>
+    <string name="exercises1">Exercises1</string>
+    <string name="exercises2">Exercises2</string>
+    <string name="exercises3">Exercises3</string>
+    <string name="onpause_onstop_ondestroy_oncreate_onstart_onresume"><![CDATA[OnPause->Onstop->OnDestroy->OnCreate->Onstart->OnResume]]></string>
+</resources>
